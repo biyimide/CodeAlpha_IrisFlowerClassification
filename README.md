@@ -9,15 +9,10 @@ A Machine Learning project that classifies Iris flowers into **Setosa**, **Versi
 * Model evaluation using accuracy score and confusion matrix
 
 ## Technologies Used
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
+* Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn
 
 ## Dataset
-The project uses the popular Iris dataset containing sepal and petal measurements of Iris flowers.
+The project uses the  Iris dataset from kaggle
 
 ## Results
 The trained KNN model achieves high classification accuracy and is evaluated using a confusion matrix and performance metrics.
@@ -32,5 +27,16 @@ python iris_classifier.py
 
 ## Author
 Olamide ogunbiyi- Developed as part of the CodeAlpha Data science Internship Program.
+## 📊 Visualizations
 
-Developed as part of the CodeAlpha Machine Learning Internship Program.
+### Pair Plot
+![Pair Plot](iris_pairplot.png)
+
+### Correlation Heatmap
+![Heatmap](iris_heatmap.png)
+
+### Boxplots
+![Boxplots](iris_boxplots.png)
+
+### Confusion Matrix
+![Confusion Matrix](iris_confusion_matrix.png)
